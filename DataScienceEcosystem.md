@@ -25,10 +25,10 @@ Some of the popular languages that data science use are:
 
 ```
 
-Some of the popular languages that data science use are: (For some reason this exercise is asked twice)
-1) Python
-2) R
-3) SQL
+Some of the popular libraries that data science use are:
+1) TensorFlow
+2) ggplot
+3) matplotlib
 
 |Data Science Tools|
 | ---------------- |
